@@ -1,5 +1,5 @@
 # OpenGL Demo
-Demo project for OpenGL programming. Demonstrates a few graphics techniques used with OpenGL using 3dgl - a tutor provided framwork.
+Demo project for OpenGL programming. Demonstrates a few graphics techniques using OpenGL using 3dgl - a tutor provided framwork.
 
 Techniques used include per-vertex lighting, per-fragment lighting, normal mapping, texturing, animated textures and fog.
 
